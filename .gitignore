@@ -1,0 +1,8 @@
+# .gitignore
+shop_data/
+__pycache__/
+*.pyc
+.streamlit/
+.env
+*.log
+.DS_Store
